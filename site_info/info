@@ -1,0 +1,10 @@
+Title:
+    bootstrap_cocos2d
+Description:
+    Our "version" of cocos2dx. Still evolving to remove all parts that we don't need.
+URL:
+    Github, http://github.com/AmazingCow-Game-Framework/bootstrap_cocos2d
+Owner:
+    AmazingCow Labs
+Section:
+    Game Framework
